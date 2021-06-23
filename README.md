@@ -1,0 +1,2 @@
+# Lottokone
+Javalla tehty lottokone.
